@@ -1,0 +1,31 @@
+{
+  "id": "foundry-tl",
+  "title": "Minhas Traduções PT-BR",
+  "description": "Tradução manual para Stylish Action HUD e Cinematic FX.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Chi",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [],
+    "requires": []
+  },
+  "esmodules": [],
+  "scripts": [],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-br.json"
+    }
+  ],
+    "manifest": "https://raw.githubusercontent.com/Chirriro/foundry-tl/main/module.json",
+    "download": "https://github.com/Chirriro/foundry-tl/releases/download/1.0.0/foundry-tl.zip"
+}
