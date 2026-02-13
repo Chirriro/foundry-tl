@@ -26,9 +26,6 @@
       "path": "lang/pt-br.json"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Chirriro/foundry-tl/main/foundry-tl/module.json",
-  "download": "https://github.com/Chirriro/foundry-tl/releases/download/1.0.0/foundry-tl.zip"
-
+    "manifest": "https://raw.githubusercontent.com/Chirriro/foundry-tl/main/module.json",
+    "download": "https://github.com/Chirriro/foundry-tl/releases/download/1.0.0/foundry-tl.zip"
 }
-
-
