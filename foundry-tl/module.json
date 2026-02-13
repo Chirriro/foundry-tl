@@ -1,5 +1,5 @@
 {
-  "id": "minhas-traducoes-pessoais",
+  "id": "foundry-tl",
   "title": "Minhas Traduções PT-BR",
   "description": "Tradução manual para Stylish Action HUD e Cinematic FX.",
   "version": "1.0.0",
@@ -30,4 +30,5 @@
   "download": "https://github.com/Chirriro/foundry-tl/releases/download/1.0.0/foundry-tl.zip"
 
 }
+
 
